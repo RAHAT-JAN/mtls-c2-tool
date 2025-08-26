@@ -1,4 +1,13 @@
 # mTLS C2 Tool – Secure Command and Control with GUI Dashboard  
+<p align="center">
+  <img src="https://img.shields.io/badge/status-active-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/license-MIT-blue" alt="License">
+  <img src="https://img.shields.io/badge/python-3.10%2B-blue" alt="Python">
+  <img src="https://img.shields.io/badge/UI-PyQt5-orange" alt="UI">
+  <img src="https://img.shields.io/badge/Security-mTLS%20TLS1.2%2B-critical" alt="Security">
+  <img src="https://img.shields.io/badge/tests-passing-success" alt="Tests">
+  <img src="https://img.shields.io/github/last-commit/USER/mtls-c2-tool" alt="Last Commit">
+</p>
 
 **Repository Description:**  
 Guide and implementation of a secure **mutual TLS (mTLS) Command-and-Control (C2) system** with GUI dashboard, supporting encrypted communication, file transfer, root command execution, and real-time analytics.  
